@@ -1,2 +1,3 @@
-# github-r-practice
-A testing repository for practicing updates, tinkering with code.
+# Github/R Practice
+
+This repository is for practicing with Github, and developing/sharing practice code...
